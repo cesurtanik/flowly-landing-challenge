@@ -358,13 +358,19 @@ React + TypeScript tercih edilmesinin temel nedeni component ve props yapısın�
 
 \## Lighthouse
 
-
-
-Lighthouse raporu Chrome DevTools kullanılarak alınmıştır.
+ighthouse raporu Chrome DevTools kullanılarak alınmıştır.
 
 
 
-Rapor ekran görüntüsü proje dokümantasyonuna eklenmiştir.
+\- Performance: 100
+
+\- Accessibility: 100
+
+\- Best Practices: 100
+
+\- SEO: 100
 
 
+
+!\[Lighthouse Report](docs/lighthouse.png)
 
